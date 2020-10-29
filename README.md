@@ -4,26 +4,26 @@
   </a>
 </p>
 
-# Category Title (Category Abbreviation) 
+# Civic Knowledge and Engagement (CKE) 
 
 ## Category Description
 
 Students will:
 
-- learning outcome
-- learning outcome
-- learning outcome
+- Identify and analyze no less than three of the following content areas: political structures, social systems, cultural trends, and/or historical change over time in the U.S. and/or other countries.
+- Critically analyze a pressing political, social, or environmental issue using multiple sources of information. This analysis includes evaluating evidence through the interpretation of primary sources to develop informed arguments about historical and/or contemporary issues and/or drawing on community-based perspectives and experiences.
+- Engage with local and local and/or global communities to build civic knowledge and skills, and reflect critically on their roles and responsibilities as members of diverse communities and societies.
 
 ## Courses That Fulfill This Requirement
 
 | Class |          Title          |                 Units                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  [EC 1000] |  Effective Communication 1: Verbal and Visual Literacies | 4.00 Units |
+|  [HIST 1207] |  Special Topics in Women's History | 4.00 Units |
 
-[EC 1000] - This course may be offered as Writing Intensive (denoted with a + and offering students additional writing instruction with attention to grammar and mechanics) or Service-Learning
+[HIST 1207] - Provides an overview of women’s experiences in different historical periods and in various geographical locations. Examines the roles assigned to women and at the selected experiences of women. It studies the writings about and by women. Considers the lives of various historical women who contributed to the disciplines of art, literature, philosophy, politics, and society. Focus of geographical area will vary. (Research Designated)
 
 
-[EC 1000]:https://drive.google.com/file/d/1OegybHRHTegCp8Fwup6DHvFvxwnNgKWM/view?usp=sharing
+[HIST 1207]:https://drive.google.com/file/d/1C7EMR-5ncs7LY-cylIBIIbZbC5EGD9Ov/view?usp=sharing
 
 
 ## Make School Course Policies
