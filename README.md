@@ -16,14 +16,15 @@ Students will:
 
 ## Courses That Fulfill This Requirement
 
-| Class |          Title          |                 Units                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  [HIST 1207] |  Special Topics in Women's History | 4.00 Units |
+| Class |          Title          |       Semester - Section       | Units |
+|:-----:|:----------------------:|:---------------------------:|:--------|
+|  HIST 1207 |  Special Topics in Women's History | [Fall 2020] - Section A | 4.00 Units |
+|  HIST 1207 |  Special Topics in Women's History | [Fall 2020] - Section B | 4.00 Units |
 
-[HIST 1207] - Provides an overview of women’s experiences in different historical periods and in various geographical locations. Examines the roles assigned to women and at the selected experiences of women. It studies the writings about and by women. Considers the lives of various historical women who contributed to the disciplines of art, literature, philosophy, politics, and society. Focus of geographical area will vary. (Research Designated)
+HIST 1207 - Provides an overview of women’s experiences in different historical periods and in various geographical locations. Examines the roles assigned to women and at the selected experiences of women. It studies the writings about and by women. Considers the lives of various historical women who contributed to the disciplines of art, literature, philosophy, politics, and society. Focus of geographical area will vary. (Research Designated)
 
 
-[HIST 1207]:https://drive.google.com/file/d/1C7EMR-5ncs7LY-cylIBIIbZbC5EGD9Ov/view?usp=sharing
+[Fall 2020]:https://drive.google.com/file/d/1C7EMR-5ncs7LY-cylIBIIbZbC5EGD9Ov/view?usp=sharing
 
 
 ## Make School Course Policies
