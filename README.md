@@ -18,6 +18,7 @@ Students will:
 
 | Class |          Title          |       Semester - Section       | Units |
 |:-----:|:----------------------:|:---------------------------:|:--------|
+|  HCS X |  Technology and Equity | Spring 2021 | 4.00 Units |
 |  HIST 1207 |  Special Topics in Women's History | [Fall 2020] - Section A | 4.00 Units |
 |  HIST 1207 |  Special Topics in Women's History | [Fall 2020] - Section B | 4.00 Units |
 
