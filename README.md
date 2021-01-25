@@ -22,6 +22,7 @@ Students will:
 |  HIST 1207 |  Special Topics in Women's History | [Fall 2020] - Section A | 4.00 Units |
 |  HIST 1207 |  Special Topics in Women's History | [Fall 2020] - Section B | 4.00 Units |
 
+
 HCS 3131 - This course will investigate the relevance of gender, race and sexuality to understanding equity in technology and the development of new technologies. We will consider a range of questions including: What are some barriers in equity in Computer Science education? And how does an organization promote or impede inequality? In addition, this course will utilize methodologies which promote engagement with local communities to enhance civic knowledge and improve student civic skills.
 
 HIST 1207 - Provides an overview of women’s experiences in different historical periods and in various geographical locations. Examines the roles assigned to women and at the selected experiences of women. It studies the writings about and by women. Considers the lives of various historical women who contributed to the disciplines of art, literature, philosophy, politics, and society. Focus of geographical area will vary. (Research Designated)
