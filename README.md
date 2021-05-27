@@ -18,17 +18,17 @@ Students will:
 
 | Class |          Title          |       Semester - Section       | Units |
 |:-----:|:----------------------:|:---------------------------:|:--------|
-|  HCS 3131 |  Technology and Equity | [Spring 2021 - HCS 3131] | 4.00 Units |
-|  HIST 1207 |  Special Topics in Women's History | [Fall 2020] - Section A | 4.00 Units |
-|  HIST 1207 |  Special Topics in Women's History | [Fall 2020] - Section B | 4.00 Units |
+|  HCS 3131 |  [Technology and Equity] | Spring 2021 - HCS 3131 | 4.00 Units |
+|  HIST 1207 |  [Special Topics in Women's History] | Fall 2020 | 4.00 Units |
 
 
 HCS 3131 - This course will investigate the relevance of gender, race and sexuality to understanding equity in technology and the development of new technologies. We will consider a range of questions including: What are some barriers in equity in Computer Science education? And how does an organization promote or impede inequality? In addition, this course will utilize methodologies which promote engagement with local communities to enhance civic knowledge and improve student civic skills.
 
 HIST 1207 - Provides an overview of women’s experiences in different historical periods and in various geographical locations. Examines the roles assigned to women and at the selected experiences of women. It studies the writings about and by women. Considers the lives of various historical women who contributed to the disciplines of art, literature, philosophy, politics, and society. Focus of geographical area will vary. (Research Designated)
 
+[Technology and Equity]:http://make.sc/hcs3131
 
-[Fall 2020]:https://drive.google.com/file/d/1C7EMR-5ncs7LY-cylIBIIbZbC5EGD9Ov/view?usp=sharing
+[Special Topics in Women's History]:https://drive.google.com/file/d/1C7EMR-5ncs7LY-cylIBIIbZbC5EGD9Ov/view?usp=sharing
 
 [Spring 2021 - HCS 3131]:https://make-school-courses.github.io/hcs3131/#/
 
