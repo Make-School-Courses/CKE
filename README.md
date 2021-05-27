@@ -18,7 +18,7 @@ Students will:
 
 | Class |          Title          |       Semester - Section       | Units |
 |:-----:|:----------------------:|:---------------------------:|:--------|
-|  HCS 3131 |  [Technology and Equity] | Spring 2021 - HCS 3131 | 4.00 Units |
+|  HCS 3131 |  [Technology and Equity] | Summer 2021 - HCS 3131 | 4.00 Units |
 |  HIST 1207 |  [Special Topics in Women's History] | Fall 2020 | 4.00 Units |
 
 
